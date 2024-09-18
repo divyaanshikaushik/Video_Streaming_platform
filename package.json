@@ -1,7 +1,7 @@
 {
   "name": "backendproject",
   "version": "1.0.0",
-  "description": "a backend project called \"the tweetube\" where you can share videos and tweets and it has features like liking posts, comments, sharing videos etc.",
+  "description": "a backend project called \"the VidTube\" where you can share videos and tweets and it has features like liking posts, comments, sharing videos etc.",
   "main": "index.js",
   "type": "module",
   "scripts": {
